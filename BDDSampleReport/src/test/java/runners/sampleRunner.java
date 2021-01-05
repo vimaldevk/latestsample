@@ -29,7 +29,7 @@ import cucumber.api.junit.Cucumber;
 				// "pretty",
 				//"usage:target//cucumber-reports"
 				//"html:target//html-reports"
-				"com.cucumber.listener.ExtentCucumberFormatter:target/html/ExtentReports.html"
+				"com.cucumber.listener.ExtentCucumberFormatter:testOutput/ExtentReport.html"
 				//"com.aventstack.extentreportscucumber.adapter.ExtentCucumberAdapter:target/cucumber-reports/report.html"
 				}
 		)
